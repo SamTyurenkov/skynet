@@ -174,7 +174,7 @@ html {
     width: 40px;
     height: 20px;
     left: 10px;
-    top: 10px;
+    top: 12px;
     font-size: 25px;
     color: #82c12b;
     transform: scale(1, 2);
