@@ -115,6 +115,9 @@ html {
 	position: relative;
 	color: #444;
 }
+.tarifs_options .free_options {
+	border-bottom: none;
+}
 .tarifs .free_options:after, .tarifs_options .free_options:after {
 	content: '>';
     position: absolute;
