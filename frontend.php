@@ -120,9 +120,9 @@ html {
     position: absolute;
     display: block;
     width: 40px;
-    height: 40px;
+    height: 20px;
     right: 10px;
-    bottom: 20px;
+    bottom: 30px;
     font-size: 30px;
     color: #e0e0e0;
 	    transform: scale(1, 2);
