@@ -125,8 +125,8 @@ html {
     width: 40px;
     height: 20px;
     right: 10px;
-    bottom: 30px;
-    font-size: 30px;
+    bottom: 35px;
+    font-size: 25px;
     color: #e0e0e0;
 	    transform: scale(1, 2);
     -webkit-transform: scale(1, 2);
